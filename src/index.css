@@ -1,0 +1,21 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  color: rgba(255, 255, 255);
+
+  
+  text-rendering: optimizeLegibility;
+  text-transform: capitalize;
+  font-synthesis: none;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  width: 1000px;
+  margin: auto;
+  border: 1px solid white;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background-color: black;
+}
+ 
